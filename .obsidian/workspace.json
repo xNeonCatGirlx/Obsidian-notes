@@ -1,0 +1,300 @@
+{
+  "main": {
+    "id": "9ea9d12c06b46cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0ff3b749e57ed94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6a7121558c16e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Materials and Manufacturing"
+            }
+          },
+          {
+            "id": "32c35d38fb2b4dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thermodynamics"
+            }
+          },
+          {
+            "id": "328df8b6f78561ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thermodynamics"
+            }
+          },
+          {
+            "id": "55b3592c3e0cbb43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thermodynamics"
+            }
+          },
+          {
+            "id": "9380937b0c80685e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engineering Maths and Computation/Vectors.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vectors"
+            }
+          },
+          {
+            "id": "75fe4465cad8d048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Statics"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e4bf4fbc905028a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a434caa03fe2b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "748d1b04c9348086",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b554633f4b705f3e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1ef73b62c8f906c8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24ce1c9357f729de",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a75fca7551fb4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ed437dd1711231",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "What is obsidian.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0b1bb5c42709f6de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "What is obsidian.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "18c013adfe12f7c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2443730f53a1702e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "35fcf561d12dc23a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "What is obsidian.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2d8bffc2b6a29de6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "748d1b04c9348086",
+  "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/1. Mechanics/Pasted image 20261007125238.png",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/Statics in a nutshell.png",
+    "Engineering Maths and Computation/Vectors.md",
+    "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics Q.md",
+    "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Centre Lathe.png",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
+    "Fundamentals of Mechanical Engineering/3. Thermodynamics",
+    "Fundamentals of Mechanical Engineering/Mechanics/Untitled",
+    "Fundamentals of Mechanical Engineering/Materials &/Untitled",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing",
+    "Fundamentals of Mechanical Engineering/1. Mechanics",
+    "Untitled",
+    "Fundamentals of Mechanical Engineering",
+    "Engineering Maths and Computation",
+    "Ther.md",
+    "Fundamentals of Mechanical Engineering/Computing.md",
+    "What is obsidian.md",
+    "Welcome.md",
+    "Untitled.base",
+    "2026-09-18.md",
+    "create a link.md"
+  ]
+}
