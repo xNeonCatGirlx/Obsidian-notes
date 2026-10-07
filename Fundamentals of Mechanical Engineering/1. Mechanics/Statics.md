@@ -21,4 +21,6 @@ needed for the mechanics of deformable bodies.
 5. Newton's 3rd Law: Forces of interaction between bodies are equal in magnitude, share the same line of action, and have opposite senses.
 6. Newton's law of Gravitation
 
+
+
 ![[Pasted image 20261007125238.png]]

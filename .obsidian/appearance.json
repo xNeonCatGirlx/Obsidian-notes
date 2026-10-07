@@ -1,5 +1,7 @@
 {
   "cssTheme": "AnuPpuccin",
   "translucency": false,
-  "theme": "system"
+  "theme": "system",
+  "accentColor": "",
+  "textFontFamily": "0xProto Nerd Font,0xProto Nerd Font Mono,0xProto Nerd Font Propo"
 }
