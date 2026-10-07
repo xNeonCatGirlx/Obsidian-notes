@@ -11,10 +11,14 @@
             "id": "7719b1c39cd94bdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -198,6 +202,16 @@
   },
   "active": "7719b1c39cd94bdc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Todo list.base",
+    "TaskNotes/Tasks/Vectors revision.md",
+    "TaskNotes/Tasks",
+    "TaskNotes",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Centre Lathe.png",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Statics in a nutshell.png",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261007125238.png",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/Images",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
     "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
     "Engineering Maths and Computation/Vectors.md",
@@ -211,14 +225,10 @@
     "Fundamentals of Mechanical Engineering/Materials &/Untitled",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing",
     "Fundamentals of Mechanical Engineering/1. Mechanics",
-    "Untitled",
-    "Fundamentals of Mechanical Engineering",
-    "Engineering Maths and Computation",
     "Ther.md",
     "Fundamentals of Mechanical Engineering/Computing.md",
     "What is obsidian.md",
     "Welcome.md",
-    "Untitled.base",
     "2026-09-18.md",
     "create a link.md"
   ]
