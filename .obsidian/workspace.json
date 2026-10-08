@@ -11,14 +11,13 @@
             "id": "7719b1c39cd94bdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Todo list.base",
+                "viewName": "Calendar"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "tasknotes-simple",
+              "title": "Todo list"
             }
           }
         ]
@@ -197,34 +196,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "tasknotes:Open mini calendar view": false,
+      "tasknotes:Open calendar view": false,
+      "tasknotes:Open tasks view": false,
+      "tasknotes:Open agenda view": false,
+      "tasknotes:Open Kanban board": false,
+      "tasknotes:Open Pomodoro timer": false,
+      "tasknotes:Open Pomodoro statistics": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "7719b1c39cd94bdc",
+  "active": "748d1b04c9348086",
   "lastOpenFiles": [
     "Untitled.md",
+    "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
     "Todo list.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/pomodoro-stats.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views",
     "TaskNotes/Tasks/Vectors revision.md",
     "TaskNotes/Tasks",
-    "TaskNotes",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Centre Lathe.png",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Statics in a nutshell.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261007125238.png",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/Images",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
-    "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
     "Engineering Maths and Computation/Vectors.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Pasted image 20261007125238.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics in a nutshell.png",
     "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics Q.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Centre Lathe.png",
-    "Fundamentals of Mechanical Engineering/3. Thermodynamics",
-    "Fundamentals of Mechanical Engineering/Mechanics/Untitled",
-    "Fundamentals of Mechanical Engineering/Materials &/Untitled",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing",
-    "Fundamentals of Mechanical Engineering/1. Mechanics",
     "Ther.md",
     "Fundamentals of Mechanical Engineering/Computing.md",
     "What is obsidian.md",
