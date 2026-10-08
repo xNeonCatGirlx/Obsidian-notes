@@ -21,4 +21,3 @@ The course assumes its all rigid bodies
 
 
 
-![[Pasted image 20261007125238.png]]
