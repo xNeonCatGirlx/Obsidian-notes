@@ -4,10 +4,7 @@ The course assumes its all rigid bodies
 
 ![[Statics in a nutshell.png]]
 
-A rigid body is a body which does not deform under the influence of forces.
-In all real applications, there is always deformation, however, many structures exhibit very small deformations under normal loading conditions, and rigid body mechanics can be used with sufficient accuracy in those cases.
-Also, the principles of rigid body mechanics are some of the building blocks  
-needed for the mechanics of deformable bodies.
+**A rigid body is a body which does not deform under the influence of forces.**
 
 - Position - Defined relative to "fixed" reference
 - Time - Position may vary with time in dynamic situations
@@ -19,7 +16,8 @@ needed for the mechanics of deformable bodies.
 3. Newton’s 1st Law: A force acting on a body changes its state of rest or of uniform motion in a straight line
 4. Newton’s 2nd Law: The rate of change of momentum of a body is proportional to the force acting on it
 5. Newton's 3rd Law: Forces of interaction between bodies are equal in magnitude, share the same line of action, and have opposite senses.
-6. Newton's law of Gravitation
+6. Newton's law of Gravitation: Every particle of matter in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centers
+![[newtons law of gravitational.png]]
 
 
 
