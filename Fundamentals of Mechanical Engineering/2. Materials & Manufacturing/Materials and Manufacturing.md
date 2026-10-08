@@ -13,9 +13,7 @@ Can be used for:
 - Lathe Bed: Base for the machine, holds the various components in precise  
 alignment.  
 - Headstock: Holds the bearings which support the spindle. Driven end of the lathe that gives the revolving motion to the workpiece. May also contain the gearbox used in thread cutting.  
-- Tail stock: Moving holder for various tools including drills and centres, precisely  
-aligned with headstock. Non-driven but can be manually positioned along the lathe  
-bed.  
+- Tail stock: Moving holder for various tools including drills and centres, precisely  aligned with headstock. Non-driven but can be manually positioned along the lathe bed.  
 - Saddle: Holds cross slide, moves along the lathe bed. Saddle movement gives axial  
 movement to the cutting tool. Moved manually or can be driven using power from  
 the lathe.  
