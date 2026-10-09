@@ -43,9 +43,9 @@ The Thermodynamic **state** of a system at a given moment is determined by the v
 - The value of properties are **irrespective** of the intermediate states
 
 **Equilibrium**
-Thermodynamic equilibrium is achieved in a system when  no further changes take place if it were isolated from its  surroundings
-If the fluid is in thermal equilibrium during the process  it is reversible process
-If the fluid is not in thermal equilibrium during the  process, then it is defined as  a non-reversible process
+Thermodynamic equilibrium is achieved in a system when no further changes take place if it were isolated from its surroundings
+If the fluid is in thermal equilibrium during the process it is reversible process
+If the fluid is not in thermal equilibrium during the process, then it is defined as  a non-reversible process
 If two bodies are at equal temperature to a third body, then they are also equal in temperature to each other
 
 Work appears at the boundary when a system changes its state due to movement by the system
