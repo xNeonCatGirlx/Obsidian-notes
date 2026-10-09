@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TaskNotes/Tasks/Foundamental of MMM Unit 1 Preview.md",
+                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundamental of MMM Unit 1 Preview"
+              "title": "Statics"
             }
           }
         ],
@@ -239,9 +239,9 @@
   },
   "active": "2d880f7ce2566bec",
   "lastOpenFiles": [
+    "TaskNotes/Tasks/Foundamental of MMM Unit 1 Preview.md",
     "Untitled.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
-    "TaskNotes/Tasks/Foundamental of MMM Unit 1 Preview.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
     "README.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/newtons law of gravitational.png",
