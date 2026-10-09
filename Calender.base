@@ -71,5 +71,6 @@ views:
       calendarView: timeGridWeek
       customDayCount: 3
       firstDay: 1
+    calendarView: timeGridWeek
   - type: table
     name: 视图

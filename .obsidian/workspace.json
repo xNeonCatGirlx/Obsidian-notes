@@ -8,16 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7719b1c39cd94bdc",
+            "id": "b9010440cc78c752",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Todo list.base",
-                "viewName": "Calendar"
+                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "tasknotes-simple",
-              "title": "Todo list"
+              "icon": "lucide-file",
+              "title": "Statics"
             }
           }
         ]
@@ -207,10 +208,19 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "748d1b04c9348086",
+  "active": "b9010440cc78c752",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Engineering Maths and Computation/Vectors.md",
+    "Calender.base",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
+    "Applied Design and Practice/Untitled",
+    "Applied Design and Practice",
     "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics.md",
+    "Untitled.md",
+    "TaskNotes/Tasks/Thermodynamics Revision.md",
+    "TaskNotes/Tasks/Math Vector Exercise 6-12.md",
+    "TaskNotes/Tasks/Foundamental of MMM Unit 1 Preview.md",
+    "TaskNotes/Tasks/Applied Design preview.md",
     "Todo list.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
@@ -218,15 +228,10 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views",
     "TaskNotes/Tasks/Vectors revision.md",
-    "TaskNotes/Tasks",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Centre Lathe.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Statics in a nutshell.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261007125238.png",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
-    "Engineering Maths and Computation/Vectors.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Pasted image 20261007125238.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics in a nutshell.png",

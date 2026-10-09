@@ -62,7 +62,7 @@
     "timeblockAttachmentSearchOrder": "name-asc",
     "nowIndicator": true,
     "selectMirror": true,
-    "weekNumbers": false,
+    "weekNumbers": true,
     "showTodayHighlight": true,
     "eventMinHeight": 15,
     "slotEventOverlap": true,
@@ -291,9 +291,9 @@
   "notificationType": "system",
   "notificationSoundEnabled": false,
   "notificationSoundVolume": 50,
-  "enableAPI": false,
+  "enableAPI": true,
   "apiPort": 8080,
-  "apiAuthToken": "",
+  "apiAuthToken": "LyXqWq0QYrtCpvXX6uBcaXqr_9ZtlycJ-AqvxgOWwMw",
   "enableMCP": false,
   "webhooks": [],
   "userFields": [],
@@ -489,5 +489,6 @@
     "defaultReminderMinutes": null
   },
   "enableDebugLogging": false,
-  "lastSeenVersion": "4.13.8"
+  "lastSeenVersion": "4.13.8",
+  "icsSubscriptions": []
 }
