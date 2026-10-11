@@ -40,12 +40,9 @@ Parting off:
 Thread cutting:
 - Creates threads by cutting a helical ridge on workpiece  
 - Cutter driven at specific speed by lead screw (or controlled by motor in CNC lathes)  
-- Gear ratio between the spindle gear and the lead  
-screw changes the relative speed, and therefore the  
-pitch of the thread.
+- Gear ratio between the spindle gear and the lead screw changes the relative speed, and therefore the pitch of the thread.
 Boring:
-- Boring on a lathe to remove internal material  
-from a workpiece  
+- Boring on a lathe to remove internal material from a workpiece  
 - Gear ratio between the spindle gear and the lead screw changes the relative speed, and therefore the pitch of the thread.
 Boring:
 - Boring on a lathe to remove internal material from a workpiece  
