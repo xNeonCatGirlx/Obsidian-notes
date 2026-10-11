@@ -12,6 +12,25 @@ Can be used for:
 
 - Lathe Bed: Base for the machine, holds the various components in precise  
 alignment.  
+<<<<<<< HEAD
+- Headstock: Holds the bearings which support the spindle. Driven end of the lathe that gives the revolving motion to the workpiece. May also contain the gearbox used  
+in thread cutting.  
+- Tail stock: Moving holder for various tools including drills and centres, precisely  
+aligned with headstock. Non-driven but can be manually positioned along the lathe  
+bed.  
+- Saddle: Holds cross slide, moves along the lathe bed. Saddle movement gives axial  
+movement to the cutting tool. Moved manually or can be driven using power from  
+the lathe.  
+- Cross Slide: Moves transversely across the bed, holds the cutting tool and gives  
+transverse tool movement. Again, can be driven manually or powered.  
+- Compound Slide: Additional slide sometimes provided for further cutting control.  
+Can be rotated to drive the tool at an angle to the workpiece.  
+- Apron: Holds the controls for moving slides and controlling feeds.
+- Lead Screw: Precision screw that drives saddle along bed at specific speeds. Only  
+used when precision movement is required for thread cutting.  
+- Feed Shaft: Used to drive saddle when not thread cutting. Prevents wear to the  
+lead screw when such precise speeds are not required.
+=======
 - Headstock: Holds the bearings which support the spindle. Driven end of the lathe that gives the revolving motion to the workpiece. May also contain the gearbox used in thread cutting.  
 - Tail stock: Moving holder for various tools including drills and centres, precisely  aligned with headstock. Non-driven but can be manually positioned along the lathe bed.  
 - Saddle: Holds cross slide, moves along the lathe bed. Saddle movement gives axial movement to the cutting tool. Moved manually or can be driven using power from the lathe.  
@@ -20,6 +39,7 @@ alignment.
 - Apron: Holds the controls for moving slides and controlling feeds.
 - Lead Screw: Precision screw that drives saddle along bed at specific speeds. Only used when precision movement is required for thread cutting.  
 - Feed Shaft: Used to drive saddle when not thread cutting. Prevents wear to the lead screw when such precise speeds are not required.
+>>>>>>> 22bca9b64de406a90d90baf3e339811d79725319
 
 Turning:  
 - Process of removing material from outer diameter of workpiece  
@@ -33,9 +53,18 @@ Parting off:
 Thread cutting:
 - Creates threads by cutting a helical ridge on workpiece  
 - Cutter driven at specific speed by lead screw (or controlled by motor in CNC lathes)  
+<<<<<<< HEAD
+- Gear ratio between the spindle gear and the lead  
+screw changes the relative speed, and therefore the  
+pitch of the thread.
+Boring:
+- Boring on a lathe to remove internal material  
+from a workpiece  
+=======
 - Gear ratio between the spindle gear and the lead screw changes the relative speed, and therefore the pitch of the thread.
 Boring:
 - Boring on a lathe to remove internal material from a workpiece  
+>>>>>>> 22bca9b64de406a90d90baf3e339811d79725319
 - Straight and tapered holes can be created  
 - Tool fixed, workpiece revolves (unlike in a boring machine)  
 Knurling: 
