@@ -35,9 +35,6 @@ Thread cutting:
 - Gear ratio between the spindle gear and the lead screw changes the relative speed, and therefore the pitch of the thread.
 Boring:
 - Boring on a lathe to remove internal material from a workpiece  
-- Gear ratio between the spindle gear and the lead screw changes the relative speed, and therefore the pitch of the thread.
-Boring:
-- Boring on a lathe to remove internal material from a workpiece  
 - Straight and tapered holes can be created  
 - Tool fixed, workpiece revolves (unlike in a boring machine)  
 Knurling: 
