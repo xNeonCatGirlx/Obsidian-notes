@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Materials and Manufacturing"
             }
-          },
-          {
-            "id": "3df9a9ee9b60ee6a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +208,7 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "3df9a9ee9b60ee6a",
+  "active": "2d880f7ce2566bec",
   "lastOpenFiles": [
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Materials and Manufacturing.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
