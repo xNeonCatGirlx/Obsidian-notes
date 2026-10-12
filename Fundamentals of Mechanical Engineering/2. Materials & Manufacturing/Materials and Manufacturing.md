@@ -64,3 +64,16 @@ Turning between centres:
 - X-axis - transverse (across the workpiece)
 - Z-axis – axial / longitudinal (along the workpiece)
 - Y-axis used for off-centre machining
+
+Forming: Final component shape created by shaped cutting tool
+GeneratingL Final Component shape created by moving cutting tool along a path
+Up-cutting
+- Tool sharpness important due to force involved
+Down-cutting
+- Good surface finish achieved
+- Less power consumed
+- Backlash a major problem
+- High rigidity required
+
+
+
