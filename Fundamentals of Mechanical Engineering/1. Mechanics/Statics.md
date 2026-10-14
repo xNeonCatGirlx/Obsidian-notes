@@ -20,7 +20,7 @@ The course assumes its all rigid bodies
 ![[newtons law of gravitational.png]]
 
 09/10/2026
-- Force
+Force:
 A force represents the action of one body on another and may be transmitted by actual **Physical contact**, or by gravity and electromagnetic forces **without contact**.
 Defined in terms of:
 1. Position
@@ -35,3 +35,17 @@ If a rigid body consists of several parts the forces holding these parts togethe
 Moment of a force about a point provides a measure of the turning effect on the body from an applied force.
 - Varignon's theorem
 The moment of a force about any axis is equal to the sum of the moments of its components about that axis.
+
+## The moment of a couple
+14/10/2026
+The moment of a couple:
+- Same magnitude
+- Parallel line of action
+- Opposing direction
+==If the resultant force is zero, it produces full moment
+
+1. Moment of a couple is the same at ANY point and quals F times the perpendicular distance D between the forces
+2. The only motion that can be cause by a couple is rotation
+3. Couples having the same moment will have the same effect on a rigid body
+
+![[Pasted image 20261014123416.png]]
