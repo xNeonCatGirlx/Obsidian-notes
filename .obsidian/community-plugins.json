@@ -1,9 +1,12 @@
 [
+  "table-editor-obsidian",
   "calendar",
-  "github-sync",
-  "tasknotes",
   "enchanted-animations",
+<<<<<<< HEAD
   "obsidian-discordrpc",
   "table-editor-obsidian",
+=======
+  "github-sync",
+>>>>>>> 3496b4d73c673e8415e83462bf75c7f4e448c83b
   "obsidian-tasks-plugin"
 ]

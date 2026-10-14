@@ -62,18 +62,29 @@ Work is done on the system when work is transferred at the system boundary
 4. Exhaust, W- Q-
 
 12/10/2026
+Learning objectives
+```  
+• Be able to define the 1st LAW OF THERMODYNAMICS and describe its implications on engineering systems  
+• Understand the definition of INTERNAL ENERGY and how it is applied  
+• Be able to define and use the NON-FLOW ENERGY EQUATION  
+• Learn how to define ENERGY TRANSFERS in and out of thermodynamic systems due to heat and work
+```
+
 1st Law of thermodynamics: 
-- Total amount of energy stays the same 
+- Total amount of energy stays the same
 - ⨊ (δQ – δW) = 0 (In a closed system)
 - ⨊Q – ⨊W = 0
 
-| 2nd Law | Heat cannot flow from cold to hot |
-| 3rd Law | There is an absolute minimum temperature |
+2nd Law:
+Heat cannot flow from cold to hot 
+3rd Law:
+There is an absolute minimum temperature 
 
 
 **Non flow energy equation**
 Q - W = U2 - U1 (U is internal energy)
-'The net work transfer in a closed system cycle is proportional to the net heat transfer'
+
+==The net work transfer in a closed system cycle is proportional to the net heat transfer==
 ⨊δQ ∝ ⨊δW   (Circle in the centre of sigma means a cycle)
 J⨊δQ = ⨊δW  J = The mechanical equivalent of heat
 
@@ -88,8 +99,17 @@ J⨊δQ = ⨊δW  J = The mechanical equivalent of heat
 In a closed system the increase in internal energy is equal to heat supplied and the work done on the system
 Different kind of property to the quantities of heat and work
 
-If the flow is a result of the **movement of a force** it is termed **work**
+==If the flow is a result of the **movement of a force** it is termed **work**
 If the flow occurs as a result of a **temperature difference** it is called **heat**
+Internal energy is part of the system and can be increase or decreased by a change in state
+
+## Part 4 - Heat and examples of Thermodynamic Processes
+```
+• Be able to define reversible and non-reversible processes and why we these are important to thermodynamic systems  
+• Be able to give examples of different thermodynamic processes, how to describe  
+them, and when they apply (adiabatic, polytropic, isothermal)  
+• Understand how to derive the term Enthalpy and how this is applied in thermodynamic system
+```
 
 Thermodynamic reversibility:
  - A process that can be run in reverse to restore the orginial state of the system
@@ -99,7 +119,18 @@ Thermodynamic reversibility:
 Reversible process and non-reversible process:
  - A process that can be reversed by inducing **infinitesimal changes** to some property via its surroundings
  - These changes would take an **infinite** amount of time so reversible processes are **not possible** in practise
+
+∞ small ∆T = Reversible process  
+dQ-dW=dU
+Large ∆T = Irreversible process  
+Q-W=U2-U1
+
 For reversible process S1=S2 therefore no change in entropy
 dQ=dU Heat transfer measured by the change in internal energy
-Enthalpy h=u+pv
- 
+Heat change = entropy change
+
+Enthalpy 
+h=u+pv
+
+In a constant pressure process, the heat absorbed or released equals the change in enthalpy
+Equal to the system's internal energy plus the product of its pressure and volume
