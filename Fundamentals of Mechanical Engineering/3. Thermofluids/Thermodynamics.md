@@ -125,6 +125,9 @@ dQ-dW=dU
 Large ∆T = Irreversible process  
 Q-W=U2-U1
 
+Polytropic process
+pv^n = constant
+
 For reversible process S1=S2 therefore no change in entropy
 dQ=dU Heat transfer measured by the change in internal energy
 Heat change = entropy change
