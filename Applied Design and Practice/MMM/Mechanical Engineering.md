@@ -44,7 +44,7 @@ Types of IP
 
 5.Patents
 - Protect the way something works
-- Patents are directed to technical features - not appearance, brand, artisitic stuff
+- Patents are directed to technical features - not appearance, brand, artistic stuff
 - Can be a product, a method, a chemical composition, a kit of parts
 - Monopoly right
 - Let you stop other people form making, selling, importing or using your inventions
