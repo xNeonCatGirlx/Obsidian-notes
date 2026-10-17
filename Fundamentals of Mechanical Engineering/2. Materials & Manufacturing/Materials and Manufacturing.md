@@ -66,7 +66,7 @@ Turning between centres:
 - Y-axis used for off-centre machining
 
 Forming: Final component shape created by shaped cutting tool
-GeneratingL Final Component shape created by moving cutting tool along a path
+Generating Final Component shape created by moving cutting tool along a path
 Up-cutting
 - Tool sharpness important due to force involved
 Down-cutting
