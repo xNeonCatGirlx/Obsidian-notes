@@ -1,16 +1,12 @@
 University
 - [ ] Revise Thermofluids
-- [x] Revise Japanese ✅ 2026-10-14
 - [ ] Revise Material and manufacture
 - [ ] Preview Thermofluids
-- [x] Preview Math ✅ 2026-10-14
 - [ ] Fill in the learning objective for the missing one
-
+- [ ] Material and Design missed lecture selfstudy
+- [ ] Ethics in applied design and practice
 Life
 - [ ] Charge tooshbrush
-- [ ] Clean up room
+- [x] Clean up room ✅ 2026-10-18
 - [ ] Friend 3D print request
-- [ ] Buy milk
-- [ ] Buy pizza
 - [ ] Set up TeamSpeak server
-- [ ] EndfieldGift
