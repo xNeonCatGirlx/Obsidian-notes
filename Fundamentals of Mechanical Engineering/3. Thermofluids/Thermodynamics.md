@@ -137,3 +137,20 @@ h=u+pv
 
 In a constant pressure process, the heat absorbed or released equals the change in enthalpy
 Equal to the system's internal energy plus the product of its pressure and volume
+
+19/10/2026
+## Part 5 - Steady Flow Energy Equation
+```
+• Be able to define the Steady Flow Energy Equation (SFEE), when it is used, and  examples of practical engineering flow processes  
+• To be able to identify and use thermodynamic terms in practical engineering systems  
+• Understand how to measure the theoretical thermodynamic efficiency of a system
+```
+m = ρAC
+
+Flow: Mass of fluid changes with time
+Steady: Fluid flow through the system at a uniform rate
+
+![[Pasted image 20261019091820.png]]
+
+- Enthalpy (H) is a measurement of energy in a thermodynamic system. It is the thermodynamic quantity equivalent to the total heat content of a system
+- It is equal to the internal energy of the system plus the product of the pressure and volume
