@@ -154,3 +154,19 @@ Steady: Fluid flow through the system at a uniform rate
 
 - Enthalpy (H) is a measurement of energy in a thermodynamic system. It is the thermodynamic quantity equivalent to the total heat content of a system
 - It is equal to the internal energy of the system plus the product of the pressure and volume
+
+Qs is the heat supplied during cycle
+Qr is the heat rejected during cycle
+
+1st Law: the net work cannot be produce during a cycle without some supply of heat
+2nd Law: some heat must always be rejected during the cycle and therefore cycle efficiency will be less than unity
+- The total *entropy* of an isolated system always increases over times.
+- So you can't covert heat completely into work
+- Hence, there is an upper limit to the ideal efficiency of conversion of heat to work in a heat engine
+- The energy of the universe is constant, the entropy of the universe tends to a maximum
+
+η = net work done / heat supplied = W / Q
+Coefficient of Performance:
+Desired output / Required input
+
+![[Pasted image 20261019102452.png]]

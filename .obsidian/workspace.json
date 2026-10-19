@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -220,9 +219,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "35c0bdc352d3b192",
+  "active": "748d1b04c9348086",
   "lastOpenFiles": [
-    "Pasted image 20261019091820.png",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261019102452.png",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261019091820.png",
     "Tasks.md",
     "未命名.md",
     "Applied Design and Practice/MMM/PDP.md",
@@ -265,7 +265,6 @@
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Centre Lathe.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Statics in a nutshell.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261007125238.png",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/Pasted image 20261007125238.png",
     "Fundamentals of Mechanical Engineering/3. Thermodynamics/Thermodynamics Q.md",
     "Ther.md"
   ]
