@@ -4,7 +4,7 @@ University
 - [ ] Preview Thermofluids
 - [ ] Fill in the learning objective for the missing one
 - [ ] Material and Design missed lecture selfstudy
-- [ ] Ethics in applied design and practice
+- [ ] Ethics in applied design and practice 📅 2026-10-23
 Life
 - [ ] Charge tooshbrush
 - [x] Clean up room ✅ 2026-10-18
