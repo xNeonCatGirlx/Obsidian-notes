@@ -1,13 +1,8 @@
 [
-  "calendar",
-<<<<<<< HEAD
-  "enchanted-animations",
-  "obsidian-discordrpc",
-  "github-sync",
-=======
-  "github-sync",
-  "enchanted-animations",
   "table-editor-obsidian",
->>>>>>> 6e22ee1eb956458051d938d254f11d4d73982989
+  "calendar",
+  "obsidian-discordrpc",
+  "enchanted-animations",
+  "github-sync",
   "obsidian-tasks-plugin"
 ]
