@@ -93,6 +93,10 @@ Gang milling
 - Setup can be maintained for batches
 ![[Pasted image 20261020221635.png]]
 
+Copy/Profile milling
+- Machine follows original part to generate copied profile
+- Bullnose or 'copy cutter' used
+![[Pasted image 20261020221835.png]]
 
 
 
