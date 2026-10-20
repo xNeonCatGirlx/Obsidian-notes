@@ -67,6 +67,8 @@ Turning between centres:
 
 Forming: Final component shape created by shaped cutting tool
 Generating Final Component shape created by moving cutting tool along a path
+
+Cutting methods:
 Up-cutting
 - Tool sharpness important due to force involved
 Down-cutting
@@ -74,6 +76,23 @@ Down-cutting
 - Less power consumed
 - Backlash a major problem
 - High rigidity required
+Backlash
+- Mechanical systems require clearances for movement
+- Unwanted/uncontrolled movement in system
+- Wear increases backlash
+Straddle millding
+- Multiple cutters spaced to cut both sides of workpiece at once
+- Precise setup required
+- Imporved processing speed
+![[Pasted image 20261020221335.png]]
+
+Gang milling
+- Multiple cutters grouped together to form surface
+- Long and expensive setup and maintenance costs
+- Improved processing times and alignment
+- Setup can be maintained for batches
+![[Pasted image 20261020221635.png]]
+
 
 
 
