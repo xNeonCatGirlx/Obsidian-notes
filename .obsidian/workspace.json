@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Turning.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turning"
+              "title": "Tasks"
             }
           }
         ]
@@ -203,14 +203,18 @@
   },
   "active": "7d22ca96819f05c4",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
+    "Tasks.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics Q.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Milling, Drilling & Broaching.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Casting.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Turning.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261019112058.png",
     "未命名.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Pasted image 20261019112058.png",
-    "Tasks.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020223052.png",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020222352.png",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020221835.png",
@@ -223,7 +227,6 @@
     "file:E:/下载/msfs_mouse_yoke_v0.4b/README.md",
     "file:E:/world execute me/Version 3.0/NOTICE.md",
     "Applied Design and Practice/MMM/PDP.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics.md",
     "Engineering Maths and Computation/Math/Vectors.md",
     "Engineering Maths and Computation/Math/Matrix.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Equilibrium.md",
@@ -235,7 +238,6 @@
     "Engineering Maths and Computation/Math/Images",
     "Engineering Maths and Computation/Math",
     "未命名.base",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics Q.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images",
     "Calender.base",
     "Class.md",
@@ -244,8 +246,6 @@
     "TaskNotes/Tasks/Thermofluids.md",
     "TaskNotes/Tasks/Materials and Manufacture.md",
     "TaskNotes/Tasks/Thermofluids Revision and Preview.md",
-    "TaskNotes/Tasks/Foundamental of MMM Unit 1 Preview.md",
-    "TaskNotes/Tasks/Math Vector Exercise 6-12.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base"
