@@ -7,3 +7,4 @@
 - [ ] Revise Materials and Manufacturing and do the week 3 quiz 📅 2026-10-22
 - [ ] Thermofluids Tutorial questions 📅 2026-10-25
 - [ ] Math work sheet for three weeks 📅 2026-10-25
+- [ ] Go through lecture videos 📅 2026-10-25

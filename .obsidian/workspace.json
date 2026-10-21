@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Equilibrium"
+              "title": "Tasks"
             }
           }
         ]
@@ -201,16 +201,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "748d1b04c9348086",
+  "active": "7d22ca96819f05c4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "未命名.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
+    "Tasks.md",
     "QR code decoded.md",
+    "未命名.md",
+    "Untitled.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Trusses and Frames.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
-    "Tasks.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
     "Engineering Maths and Computation/Math/Vectors.md",
     "Engineering Maths and Computation/Math/Matrix.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
