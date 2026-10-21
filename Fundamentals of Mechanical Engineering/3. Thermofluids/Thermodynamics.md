@@ -170,3 +170,7 @@ Coefficient of Performance:
 Desired output / Required input
 
 ![[Pasted image 20261019102452.png]]
+
+For a cycle to be reversible:
+1. Heat transfer must occur with infinitesimally small temperature differences
+2. Work transfer to the surroundings must by infinitesimally different from work due to the pressure of the fluid
