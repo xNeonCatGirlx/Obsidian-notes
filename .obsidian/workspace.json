@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
+                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Equilibrium"
+              "title": "3. Casting"
             }
           }
         ]
@@ -203,12 +203,15 @@
   },
   "active": "7d22ca96819f05c4",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Engineering Maths and Computation/Math/Vectors.md",
+    "Engineering Maths and Computation/Math/Matrix.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
-    "Tasks.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics Q.md",
@@ -228,9 +231,6 @@
     "file:E:/下载/msfs_mouse_yoke_v0.4b/README.md",
     "file:E:/world execute me/Version 3.0/NOTICE.md",
     "Applied Design and Practice/MMM/PDP.md",
-    "Engineering Maths and Computation/Math/Vectors.md",
-    "Engineering Maths and Computation/Math/Matrix.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Applied Design and Practice/MMM/Mechanical Engineering.md",
     "Applied Design and Practice/MMM",
     "Applied Design and Practice",
