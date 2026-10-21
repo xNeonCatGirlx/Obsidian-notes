@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
+                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Casting"
+              "title": "2. Equilibrium"
             }
           }
         ]
@@ -203,13 +203,13 @@
   },
   "active": "7d22ca96819f05c4",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Tasks.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
     "Engineering Maths and Computation/Math/Vectors.md",
     "Engineering Maths and Computation/Math/Matrix.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
