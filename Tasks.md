@@ -4,6 +4,7 @@
 - [ ] Find out all the deadlines and examination 📅 2026-10-25
 - [ ] Thermofluids missed on Wednesday 📅 2026-10-25
 - [ ] Read through all the leacture notes 📅 2026-10-25
-- [ ] Revise Materials and Manufacturing and do the week 3 quiz 📅 2026-10-22
+- [x] Revise Materials and Manufacturing and do the week 3 quiz 📅 2026-10-22 ✅ 2026-10-22
 - [ ] Thermofluids Tutorial questions 📅 2026-10-25
 - [ ] Math work sheet for three weeks 📅 2026-10-25
+- [ ] Go through lecture videos 📅 2026-10-25
