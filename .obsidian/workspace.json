@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
+                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Turning"
+              "title": "2. Equilibrium"
             }
           }
         ]
@@ -221,18 +221,20 @@
   },
   "active": "748d1b04c9348086",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
+    "Applied Design and Practice/MMM/Mechanical Engineering.md",
+    "Applied Design and Practice/MMM/PDP.md",
     "Untitled.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
     "Engineering Maths and Computation/Math/Matrix.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "QR code decoded.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/Trusses and Frames.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Equilibrium.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
     "Tasks.md",
@@ -250,8 +252,6 @@
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261019102452.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261019091820.png",
     "未命名.md",
-    "Applied Design and Practice/MMM/PDP.md",
-    "Applied Design and Practice/MMM/Mechanical Engineering.md",
     "Engineering Maths and Computation/Math/Vectors.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics Q.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261014123416.png",
