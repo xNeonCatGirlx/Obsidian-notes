@@ -24,3 +24,6 @@ Threats
 - International travel delays 
 - Higher death rate
 
+
+Reflections:
+
