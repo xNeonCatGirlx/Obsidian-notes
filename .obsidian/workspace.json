@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "76f015f398257dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,12 +216,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d22ca96819f05c4",
+  "active": "76f015f398257dd2",
   "lastOpenFiles": [
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
-    "Tasks.md",
-    "QR code decoded.md",
     "未命名.md",
+    "Tasks.md",
+    "SWOT analysis.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
+    "Applied Design and Practice/MMM/PDP content.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
+    "QR code decoded.md",
     "Untitled.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Trusses and Frames.md",
@@ -243,9 +261,6 @@
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images",
     "Calender.base",
     "Class.md",
-    "README.md",
-    "Engineering Maths and Computation/Vectors.md",
-    "TaskNotes/Tasks/Thermofluids.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base"
