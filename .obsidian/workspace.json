@@ -138,7 +138,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -152,7 +152,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is obsidian.md",
+                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "大纲"
             }
           },
           {
@@ -176,8 +176,18 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "a427c273bacbe9c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -203,10 +213,12 @@
   },
   "active": "7d22ca96819f05c4",
   "lastOpenFiles": [
+    "未命名.base",
+    "未命名 1.base",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "Tasks.md",
     "QR code decoded.md",
     "SWOT analysis.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "未命名.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
     "Applied Design and Practice/MMM/PDP content.md",
@@ -242,10 +254,8 @@
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261014123416.png",
     "Engineering Maths and Computation/Math/Images",
     "Engineering Maths and Computation/Math",
-    "未命名.base",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images",
     "Calender.base",
-    "Class.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base"
