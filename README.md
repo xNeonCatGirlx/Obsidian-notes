@@ -1,1 +1,1 @@
-Just a simple github repository for my notes taken in University
+Just a simple github repository for my notes taken in University about Mechanical Engineering
