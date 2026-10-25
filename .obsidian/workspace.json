@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "76f015f398257dd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "未命名"
+              "title": "1. Heat and Work"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,15 +201,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "76f015f398257dd2",
+  "active": "7d22ca96819f05c4",
   "lastOpenFiles": [
-    "未命名.md",
     "Tasks.md",
     "SWOT analysis.md",
+    "QR code decoded.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
+    "未命名.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
     "Applied Design and Practice/MMM/PDP content.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
-    "QR code decoded.md",
     "Untitled.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Trusses and Frames.md",
@@ -235,7 +221,6 @@
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics Q.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261019112058.png",
     "Untitled 1.md",
