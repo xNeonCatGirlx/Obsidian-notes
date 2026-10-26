@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
+                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/4. Forming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Temperature and Heat"
+              "title": "4. Forming"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -213,9 +214,10 @@
   },
   "active": "35c0bdc352d3b192",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/4. Forming.md",
     "Pasted image 20261026102310.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026101523.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026101036.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
@@ -248,7 +250,6 @@
     "未命名 1.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261019102452.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261019091820.png",
     "Engineering Maths and Computation/Math/Images",
     "Engineering Maths and Computation/Math",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images",
