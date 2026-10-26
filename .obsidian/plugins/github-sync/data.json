@@ -2,7 +2,7 @@
   "remoteURL": "https://github.com/xNeonCatGirlx/Obsidian-notes.git",
   "gitLocation": "",
   "syncinterval": 15,
-  "isSyncOnLoad": true,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true,
   "noticeLevel": "ALL",
   "showSyncSuccessNotice": true
