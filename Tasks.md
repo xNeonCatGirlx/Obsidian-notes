@@ -15,3 +15,4 @@
 # Exams
 - [ ] Math class test on vecotrs, mctrices and complex numbers 📅 2026-11-10
 - [ ] Thermodynamics 1 Exam 
+
