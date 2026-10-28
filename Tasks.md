@@ -9,8 +9,8 @@
 - [ ] Math work sheet for three weeks 📅 2026-10-25
 - [ ] Go through lecture videos 📅 2026-10-25
 - [ ] Competency tests 📅 2026-10-26
-- [ ] Math videos on complex number 📅 2026-10-26
-- [ ] Japanese homework 📅 2026-10-26
+- [x] Math videos on complex number 📅 2026-10-26 ✅ 2026-10-28
+- [x] Japanese homework 📅 2026-10-26 ✅ 2026-10-28
 
 # Exams
 - [ ] Math class test on vecotrs, mctrices and complex numbers 📅 2026-11-10
