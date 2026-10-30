@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -213,11 +214,16 @@
   },
   "active": "16dbd4f168af8e71",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012739.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
+    "Pasted image 20261030012711.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
+    "Pasted image 20261030012715.png",
+    "Untitled.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012115.png",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012108.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "Tasks.md",
-    "Untitled.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261028122620.png",
     "Fundamentals of Mechanical Engineering/1. Mechanics/4. Friction.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
@@ -244,10 +250,6 @@
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261019112058.png",
     "Untitled 1.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020223052.png",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020222352.png",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020221835.png",
-    "Pasted image 20261020221633.png",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/Images/Pasted image 20261020221635.png",
     "未命名 1.md",
     "file:E:/下载/msfs_mouse_yoke_v0.4b/README.md",
     "Applied Design and Practice/MMM",
