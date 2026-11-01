@@ -11,10 +11,14 @@
             "id": "192948280234bfd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "3. Efficiency, performance, and SFEE"
             }
           }
         ]
@@ -209,6 +213,7 @@
   },
   "active": "192948280234bfd0",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
     "file:C:/Users/David/AppData/Local/Temp/BNZ.6ae6cd8ec9e6f55/world-execute-me-video.md",
     "file:C:/Users/David/AppData/Local/Temp/BNZ.6ae6cd83c9e4799/minecraft-server.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/4. Forming.md",
@@ -219,7 +224,6 @@
     "README.md",
     "SWOT analysis.md",
     "QR code decoded.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030020046.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012739.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
