@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "966571c2053456ee",
+        "id": "16f8a76d2bd0e7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "16dbd4f168af8e71",
+            "id": "192948280234bfd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -211,8 +207,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "16dbd4f168af8e71",
+  "active": "192948280234bfd0",
   "lastOpenFiles": [
+    "file:C:/Users/David/AppData/Local/Temp/BNZ.6ae6cd8ec9e6f55/world-execute-me-video.md",
+    "file:C:/Users/David/AppData/Local/Temp/BNZ.6ae6cd83c9e4799/minecraft-server.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/4. Forming.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/4. Friction.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
+    "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
+    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
+    "README.md",
     "SWOT analysis.md",
     "QR code decoded.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
@@ -227,29 +231,22 @@
     "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
     "Tasks.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261028122620.png",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/4. Friction.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026102310.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026101523.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026101036.png",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/4. Forming.md",
     "未命名.base",
     "未命名 1.base",
     "未命名.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
     "Applied Design and Practice/MMM/PDP content.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/Trusses and Frames.md",
     "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
     "Engineering Maths and Computation/Math/Vectors.md",
     "Engineering Maths and Computation/Math/Matrix.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
     "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/Thermodynamics Q.md",
     "Untitled 1.md",
-    "未命名 1.md",
-    "file:E:/下载/msfs_mouse_yoke_v0.4b/README.md",
     "Applied Design and Practice/MMM",
     "Applied Design and Practice",
     "Engineering Maths and Computation/Math/Images",
