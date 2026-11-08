@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "16f8a76d2bd0e7bc",
+        "id": "3f4987729a1108a6",
         "type": "tabs",
         "children": [
           {
-            "id": "192948280234bfd0",
+            "id": "a391b4fe701c2873",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
-                "mode": "source",
-                "source": false
+                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261102034436.png"
               },
-              "icon": "lucide-file",
-              "title": "3. Efficiency, performance, and SFEE"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261102034436"
             }
           }
         ]
@@ -83,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -212,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "192948280234bfd0",
+  "active": "748d1b04c9348086",
   "lastOpenFiles": [
+    "file:D:/perp-ai/README.md",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
-    "Pasted image 20261102034436.png",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261102034436.png",
     "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
     "file:C:/Users/David/AppData/Local/Temp/BNZ.6ae6cd8ec9e6f55/world-execute-me-video.md",
     "file:C:/Users/David/AppData/Local/Temp/BNZ.6ae6cd83c9e4799/minecraft-server.md",
