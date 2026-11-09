@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d074809ab36465d3",
+        "id": "3f4987729a1108a6",
         "type": "tabs",
         "children": [
           {
-            "id": "77d15e42c350063e",
+            "id": "a391b4fe701c2873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
+                "file": "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/4. Temperature and Heat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Circular Motion"
-            }
-          },
-          {
-            "id": "5a58c74c04e7c4d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "4. Temperature and Heat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -98,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.55859375
+    "width": 301.5
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/5. Joining.md",
+                "file": "What is obsidian.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,7 +138,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -167,7 +152,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "添加笔记属性"
             }
           },
           {
@@ -176,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What is obsidian.md",
+                "file": "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "大纲"
             }
           },
           {
@@ -196,7 +181,7 @@
             }
           },
           {
-            "id": "a7dc5cd954ee75a2",
+            "id": "a427c273bacbe9c2",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -205,7 +190,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -214,63 +200,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a58c74c04e7c4d4",
+  "active": "a391b4fe701c2873",
   "lastOpenFiles": [
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102034436.png",
-    "Untitled.md",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
-    "Pasted image 20261106164706.png",
-    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/5. Joining.md",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Untitled.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/4. Temperature and Heat.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/5. Reversibility & Entropy.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
+    "Untitled.md",
+    "Pasted image 20261106164706.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261104014532.png",
-    "Tasks.md",
-    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/3. Casting.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102093317.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102093108.png",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/4. Friction.md",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/5. Reversibility & Entropy.md",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/1. Heat and Work.md",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/2. Equilibrium.md",
-    "Applied Design and Practice EN1217/Statics/Design task 2.md",
-    "Applied Design and Practice EN1217/Statics/Images",
-    "Applied Design and Practice EN1217/Statics/Images/Pasted image 20261030134121.png",
-    "Untitled 1.md",
-    "Applied Design and Practice EN1217/Statics",
-    "Applied Design and Practice EN1217/MMM/Mechanical Engineering.md",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/1. Statics.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030020046.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102034436.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030012739.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030012115.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030012108.png",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/4. Temperature and Heat.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261026102310.png",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/1. Heat and Work.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/Images",
     "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/4. Forming.md",
-    "SWOT analysis.md",
-    "未命名.md",
-    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/3. Trusses and Frames.md",
-    "QR code decoded.md",
-    "Applied Design and Practice EN1217/MMM/PDP content.md",
-    "Applied Design and Practice EN1217/MMM/PDP.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/5. Joining.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/3. Casting.md",
     "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/1. Turning.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Images",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/2. Equilibrium.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/4. Friction.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/3. Trusses and Frames.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/1. Statics.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics",
+    "Fundamentals of Mechanical Engineering EN1213",
+    "Engineering Maths and Computation EN1211/Math/Vectors.md",
+    "Engineering Maths and Computation EN1211/Math/Matrix.md",
     "Engineering Maths and Computation EN1211/Math/Images",
     "Engineering Maths and Computation EN1211/Math",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids",
-    "Calender.base",
-    "Applied Design and Practice EN1217/MMM",
-    "Applied Design and Practice EN1217"
+    "Applied Design and Practice EN1217/Statics/Design task 2.md",
+    "Applied Design and Practice EN1217/MMM/PDP content.md",
+    "Applied Design and Practice EN1217/MMM/PDP.md",
+    "Applied Design and Practice EN1217/MMM/Mechanical Engineering.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
+    "file:D:/perp-ai/README.md",
+    "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md"
   ]
 }
