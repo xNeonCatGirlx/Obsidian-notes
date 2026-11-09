@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35c0bdc352d3b192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentals of Mechanical Engineering/1. Mechanics/4. Friction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Friction"
-            }
-          },
-          {
             "id": "77d15e42c350063e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/5. Joining.md",
+                "file": "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Joining"
+              "title": "3. Circular Motion"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.55859375,
-    "collapsed": true
+    "width": 358.55859375
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -115,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What is obsidian.md",
+                "file": "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/5. Joining.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -206,8 +190,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +199,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -229,51 +211,51 @@
   },
   "active": "77d15e42c350063e",
   "lastOpenFiles": [
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/5. Joining.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/4. Friction.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/5. Reversibility & Entropy.md",
-    "Pasted image 20261102093317.png",
-    "Pasted image 20261102093108.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/1. Heat and Work.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/2. Equilibrium.md",
+    "Pasted image 20261106164706.png",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/5. Joining.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Untitled.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261104014532.png",
     "Tasks.md",
-    "Applied Design and Practice/Statics/Design task 2.md",
-    "Applied Design and Practice/Statics/Images",
-    "Applied Design and Practice/Statics/Images/Pasted image 20261030134121.png",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/3. Casting.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102034436.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102093317.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102093108.png",
+    "Untitled.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/4. Friction.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/5. Reversibility & Entropy.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/1. Heat and Work.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/2. 1st Law, NFEE, and processes.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/2. Equilibrium.md",
+    "Applied Design and Practice EN1217/Statics/Design task 2.md",
+    "Applied Design and Practice EN1217/Statics/Images",
+    "Applied Design and Practice EN1217/Statics/Images/Pasted image 20261030134121.png",
     "Untitled 1.md",
-    "Applied Design and Practice/Statics",
-    "Applied Design and Practice/MMM/Mechanical Engineering.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/1. Statics.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030020046.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012739.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012115.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261030012108.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026102310.png",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/Images/Pasted image 20261028122620.png",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/4. Temperature and Heat.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/3. Efficiency, performance, and SFEE.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/4. Forming.md",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images/Pasted image 20261026101523.png",
+    "Applied Design and Practice EN1217/Statics",
+    "Applied Design and Practice EN1217/MMM/Mechanical Engineering.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/1. Statics.md",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030020046.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030012739.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030012115.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261030012108.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261026102310.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/4. Temperature and Heat.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/4. Forming.md",
     "SWOT analysis.md",
     "未命名.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/3. Trusses and Frames.md",
+    "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/3. Trusses and Frames.md",
     "QR code decoded.md",
-    "Applied Design and Practice/MMM/PDP content.md",
-    "Applied Design and Practice/MMM/PDP.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/3. Casting.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
-    "Fundamentals of Mechanical Engineering/2. Materials & Manufacturing/1. Turning.md",
-    "Engineering Maths and Computation/Math/Matrix.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/Equilibrium.md",
-    "Fundamentals of Mechanical Engineering/1. Mechanics/Statics.md",
-    "Engineering Maths and Computation/Math/Images",
-    "Engineering Maths and Computation/Math",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids/Images",
-    "Fundamentals of Mechanical Engineering/3. Thermofluids",
+    "Applied Design and Practice EN1217/MMM/PDP content.md",
+    "Applied Design and Practice EN1217/MMM/PDP.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/2. Milling, Drilling & Broaching.md",
+    "Engineering Maths and Computation EN1211/Math/Images",
+    "Engineering Maths and Computation EN1211/Math",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids",
     "Calender.base",
-    "Applied Design and Practice/MMM",
-    "Applied Design and Practice",
-    "Todo list.base"
+    "Applied Design and Practice EN1217/MMM",
+    "Applied Design and Practice EN1217"
   ]
 }
