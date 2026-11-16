@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "visco-elastic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.24609375
+    "width": 252.24609375,
+    "collapsed": true
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -226,7 +227,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "b554633f4b705f3e",
+  "active": "5a58c74c04e7c4d4",
   "lastOpenFiles": [
     "Untitled.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/6.  Fluids.md",
