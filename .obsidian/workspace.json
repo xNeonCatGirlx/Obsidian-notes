@@ -75,13 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.24609375,
-    "collapsed": true
+    "width": 252.24609375
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -208,18 +206,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a0fab75ea9319ed7",
+  "active": "748d1b04c9348086",
   "lastOpenFiles": [
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/6.  Fluids.md",
-    "Pasted image 20261116104530.png",
-    "Pasted image 20261116104300.png",
-    "Pasted image 20261116103627.png",
-    "Pasted image 20261116102049.png",
-    "Pasted image 20261116102037.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261116104530.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261116104300.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261116103627.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261116102049.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261116102037.png",
     "Untitled.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102034436.png",
-    "Pasted image 20261106164706.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261106164706.png",
     "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/5. Joining.md",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Untitled.md",
