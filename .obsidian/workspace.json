@@ -11,10 +11,14 @@
             "id": "a0fab75ea9319ed7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/4. Relative motion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "4. Relative motion"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.24609375
+    "width": 252.24609375,
+    "collapsed": true
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -206,8 +211,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "748d1b04c9348086",
+  "active": "a0fab75ea9319ed7",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/4. Relative motion.md",
+    "Fundamentals of Mechanical Engineering EN1213/4. Dynamics",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/6.  Fluids.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261116104530.png",
@@ -251,7 +258,6 @@
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids",
     "Calender.base",
-    "Applied Design and Practice EN1217/MMM",
-    "Applied Design and Practice EN1217"
+    "Applied Design and Practice EN1217/MMM"
   ]
 }
