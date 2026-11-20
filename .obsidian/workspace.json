@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/4. Relative motion.md",
+                "file": "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/5 & 6 General Plane Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Relative motion"
+              "title": "5 & 6 General Plane Motion"
             }
           }
         ]
@@ -213,8 +213,10 @@
   },
   "active": "a0fab75ea9319ed7",
   "lastOpenFiles": [
-    "Pasted image 20261118123739.png",
+    "Pasted image 20261120091809.png",
     "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/4. Relative motion.md",
+    "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/5 & 6 General Plane Motion.md",
+    "Pasted image 20261118123739.png",
     "Fundamentals of Mechanical Engineering EN1213/4. Dynamics",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/Rigid Body Dynamics/3. Circular Motion.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/6.  Fluids.md",
@@ -234,7 +236,6 @@
     "Tasks.md",
     "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/3. Casting.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102093317.png",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261102093108.png",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/4. Friction.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/5. Reversibility & Entropy.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/1. Heat and Work.md",
@@ -252,7 +253,6 @@
     "未命名.md",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/3. Trusses and Frames.md",
     "QR code decoded.md",
-    "Applied Design and Practice EN1217/MMM/PDP content.md",
     "Engineering Maths and Computation EN1211/Math/Images",
     "Engineering Maths and Computation EN1211/Math",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images",
