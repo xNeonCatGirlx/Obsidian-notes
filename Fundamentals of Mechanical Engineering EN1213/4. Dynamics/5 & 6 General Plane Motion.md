@@ -12,3 +12,5 @@ Curvilinear Translation:
 General Plane Motion:
 Translation of whole body + Rotation about A
 Given the translational motion of one point in the rigid body and the rotational motion of the rigid body, the motion of any other point can be worked out using the relative motion relationships.
+
+![[Pasted image 20261120104115.png]]
