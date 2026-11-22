@@ -3,5 +3,6 @@
   "translucency": false,
   "theme": "system",
   "accentColor": "",
-  "textFontFamily": "SF Pro Text"
+  "textFontFamily": "SF Pro Text",
+  "showRibbon": true
 }
