@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.24609375
+    "width": 252.24609375,
+    "collapsed": true
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -210,9 +211,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "748d1b04c9348086",
+  "active": "a0fab75ea9319ed7",
   "lastOpenFiles": [
-    "Pasted image 20261123103610.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123103610.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/8.  Fluids.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123101547.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123101237.png",
