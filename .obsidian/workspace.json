@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/8.  Fluids.md",
+                "file": "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/8. Laser Machining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8.  Fluids"
+              "title": "8. Laser Machining"
             }
           }
         ]
@@ -213,9 +213,10 @@
   },
   "active": "a0fab75ea9319ed7",
   "lastOpenFiles": [
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/8.  Fluids.md",
+    "Fundamentals of Mechanical Engineering EN1213/2. Materials & Manufacturing/8. Laser Machining.md",
     "未命名.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123103610.png",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/8.  Fluids.md",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123101547.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123101237.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123095823.png",
@@ -253,7 +254,6 @@
     "Applied Design and Practice EN1217/Statics",
     "Applied Design and Practice EN1217/MMM/Mechanical Engineering.md",
     "Fundamentals of Mechanical Engineering EN1213/1. Mechanics/1. Statics.md",
-    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/4. Temperature and Heat.md",
     "Engineering Maths and Computation EN1211/Math/Images",
     "Engineering Maths and Computation EN1211/Math",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images",
