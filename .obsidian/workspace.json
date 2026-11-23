@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.24609375,
-    "collapsed": true
+    "width": 252.24609375
   },
   "right": {
     "id": "24ce1c9357f729de",
@@ -211,14 +210,14 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "a0fab75ea9319ed7",
+  "active": "748d1b04c9348086",
   "lastOpenFiles": [
     "Pasted image 20261123103610.png",
     "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/8.  Fluids.md",
-    "Pasted image 20261123101547.png",
-    "Pasted image 20261123101237.png",
-    "Pasted image 20261123095823.png",
-    "Pasted image 20261123095804.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123101547.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123101237.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123095823.png",
+    "Fundamentals of Mechanical Engineering EN1213/3. Thermofluids/Images/Pasted image 20261123095804.png",
     "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/5 & 6 General Plane Motion.md",
     "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/Images/Pasted image 20261120104115.png",
     "Fundamentals of Mechanical Engineering EN1213/4. Dynamics/Images/Pasted image 20261120091809.png",
